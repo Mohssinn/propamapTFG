@@ -1,0 +1,8 @@
+PG_MODE=primary
+PG_PRIMARY_USER=postgres
+PG_PRIMARY_PASSWORD=postgres
+PG_DATABASE=postgisdb
+PG_USER=pgisdb
+PG_PASSWORD=postgres
+PG_ROOT_PASSWORD=postgres
+PG_PRIMARY_PORT=5432
