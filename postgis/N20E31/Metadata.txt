@@ -1,0 +1,27 @@
+The European Settlement Map (ESM_BUILT_VHR2015_EUROPE_R2019_3035_02_V1_0) is the latest release of the European Settlement Map (ESM) produced in the frame of the GHSL project. 
+The ESM product exploits the Copernicus VHR_IMAGE_2015 dataset made of satellite images Pleaiades, Deimos-02, WorldView-2, WorldView-3, GeoEye-01 and Spot 6/7 ranging from 2014 to 2016.
+
+Bounding Box:
+Lower Left  (  844000.000,  842000.000) ( 24d 9'24.07"W, 23d34'49.93"N)
+Upper Right ( 7344000.000, 5442000.000) ( 71d27' 9.03"E, 59d 3'13.24"N)
+
+Center      ( 4094000.000, 3142000.000) (  6d44'27.38"E, 51d20'35.91"N)
+
+Coverage:
+Albania, Austria, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Kosovo, Latvia, Liechtenstein, 
+Lithuania, Luxembourg, Malta, Montenegro, Netherlands, North Macedonia, Norway, Poland, Portugal, Romania, Serbia, Slovakia, Slovenia, Spain, Sweden, Switzerland, Turkey, United Kingdom
+
+Coordinate Reference System: EPSG:3035 (ETRS89, LAEA)
+
+Temporal extent: 2014-2016
+
+Spatial resolution: 2 Meters
+
+Classes:
+No Data (code 0)
+Land (code 1)
+Water (code 2)
+Built-up area (code 255)
+
+Contact:
+christina.corban@ec.europa.eu
