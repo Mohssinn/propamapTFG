@@ -4,6 +4,8 @@ function add(n1:number, n2:number):number{
 
 console.log('Hola Mundo!')
 
+console.log('Hola!')
+
 console.log(`El resultado es: ${add(2,2)}`)
 
 import express, { Request, Response } from 'express'
