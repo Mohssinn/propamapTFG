@@ -55,6 +55,6 @@ USER postgres
 
 EXPOSE 5432
 
-RUN chmod 777 /var/lib/postgresql/data
+RUN chmod -R 777 /var/lib/postgresql/data
 
 CMD ["postgres"]
